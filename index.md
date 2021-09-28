@@ -9,6 +9,14 @@
 
 I am a Mathematics and Computer Science major working towards my bachealors degree. I am interested in machine learning and cryptography. I have two brothers, one older and one younger.
 
+Here are my top priorities at the moment:
+
+- [ ] Pass CSE 110
+- [ ] Pass CSE 130
+- [ ] Graduate
+- [ ] Get a job
+
+
 Here are some of my interests:
 
 - Playing board games
@@ -30,3 +38,10 @@ Here is a quote from my pops:
 
 [The Library of Babel](https://libraryofbabel.info/search.html) is an interesting website that has everything that has ever and will ever be said.
 
+This is one way to mess up your linux machine:
+
+```
+$ rm -rf /
+```
+
+It deletes everything recursively
