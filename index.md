@@ -15,6 +15,11 @@ Here are some of my interests:
 - Camping
 - Cooking/Baking
 - Drinking craft beers
+- Drawing/Painting
+
+Here is a painting I did:
+
+
 
 Here is a quote from my pops:
 > Top three sons
