@@ -19,7 +19,7 @@ Here are some of my interests:
 
 Here is a painting I did:
 
-
+[Painting](./IMG_1738.JPG)
 
 Here is a quote from my pops:
 > Top three sons
