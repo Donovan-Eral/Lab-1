@@ -1,11 +1,13 @@
 # Donovan Eral #
 ### Pronouns: He/Him ###
 
+
+
 I am a Mathematics and Computer Science major working towards my bachealors degree. I am interested in machine learning and cryptography. I have two brothers, one older and one younger.
 
 Here is my resume:
 
-[Resume]()
+[Resume]('Resume - Google Docs.pdf')
 
 Here are some of my interests:
 
